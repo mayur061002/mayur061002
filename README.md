@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mayur061002
+- 👋 Hi, I’m Mayur Makode
 - 👀 I’m interested in Web dev, Web designing & Graphic designing
 - 🌱 I’m currently learning React & Back-end web development
 - 💞️ I’m looking to collaborate on Front-end Projects
